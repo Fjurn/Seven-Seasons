@@ -12,3 +12,4 @@ Bij aanpassingen lokaal openen via localhost:
 Bij aanpassingen pushen naar github pages:
 - git bash openen in de folder van quartz (pinned aan start)
 - npx quartz sync
+- 
