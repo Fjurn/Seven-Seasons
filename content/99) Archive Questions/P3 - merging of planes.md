@@ -1,0 +1,4 @@
+a) Will merging the planes together improve the lives of the humans, won't the habitats of the higher planes attack us, won't azragog attack us?
+>While merging the planes would also lead to creatures interacting with each other more often, it also spreads the magicules from planes with plenty to those with less. This will, on the long run, benefit those at the bottom the most, as they now (re)gain the potential of the world before. Giving them the strengths, knowledge and powers of the planes above. A potential threat in the first years after the merge, will indeed be that stronger creatures are closer to those who could not oppose to them. 
+>
+>Therefor it would be wise to create bonds with strong civilizations and creatures throughout the planes before the merge. This would limit the potential threat of creatures and races trying to impose their rule on others

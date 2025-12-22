@@ -21,7 +21,7 @@ The group of players is called the Shogun's Expedition and are from the 7th and 
 | 6        | The Beastlands    | Raiju, the Thunderbeast                                        | Beastfolk, Dwarves, Elves |           |
 | 7        | Cegeris           | Shogun                                                         | Humans                    |           |
 The players are:
-- Joren [[Oda (retired)]], [[Yang]]
-- Stijn [[Kaeda]]
-- Gilian [[Rah'zeer]]
-- Kelly [[Pan]]
+- J**** [[Oda (retired)]], [[Yang]]
+- S**** [[Kaeda]]
+- G***** [[Rah'zeer]]
+- K**** [[Pan]]

@@ -1,0 +1,6 @@
+
+b) waar kan ik n master voor air en earth bending vinden
+
+While it would be possible, and the most effective, to learn elemental bending from creatures possessing the direct source, such as dragons, elementals or spirits, it would also be unlikely for them to teach a human their ways. Although not impossible. 
+- for the earth tribe, or [[4d. Gongyi Clan]], you must travel to the Grey Mountain. From the city called Pandemonium follow the road eastwards, when you hit the wall and can choose of the 4 caves to enter, don't go in any and look underneath the path you walk on. There should be a small hole, just big enough for a human to crawl through. Orcs won't fit. After you crawl for a day or two, and maybe fight a few earthy creatures, you will find the new headquarters of the earth tribe
+- for the wind tribe, you can travel to the city called [[7a. Aerokai]] in Cegeris. There is a small community of air benders who regularly partake in the tournements that take place at Aerokai. The current champion of Aerokai is an airbending man who goes by the name "x".

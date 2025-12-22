@@ -1,0 +1,1 @@
+Hier enkel informatie zetten dat openbaar is en door andere spelers gelezen mag worden. 
