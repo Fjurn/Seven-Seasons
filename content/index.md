@@ -1,7 +1,7 @@
 ---
 title: Seven Seasons Campaign
 aliases:
-  - Home
+  - Homepage
 ---
 <pages made with quartz: https://quartz.jzhao.xyz/ >
 
