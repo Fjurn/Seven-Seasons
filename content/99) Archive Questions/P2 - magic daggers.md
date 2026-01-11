@@ -1,0 +1,1 @@
+To make youself magic items is a craft on its own. You must find a magical formula/blueprint you want to use on your weapons. You must use money and a lot of time to craft your weapons into a magical version of themselves, and not without a chance of destroying them. You could also cast certain spells to enchant your weapon temporarily.

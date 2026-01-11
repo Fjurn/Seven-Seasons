@@ -4,3 +4,7 @@ Relationships with:
 - [[Mura]]: pet and friend
 - Party
 - Yang's Village
+- Yang vindt [[Kaeda]] een gekke kwiebel
+
+
+![450](https://i.imgur.com/1a81c4U.png)

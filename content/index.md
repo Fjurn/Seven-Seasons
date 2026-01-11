@@ -25,3 +25,5 @@ The players are:
 - S**** [[Kaeda]]
 - G***** [[Rah'zeer]]
 - K**** [[Pan]]
+
+[Player Codex](https://docs.google.com/spreadsheets/d/1K1EEQYpXhRNQCS6FQfZCsj_x3t6kwjGtptDUaAJRhpU/edit?gid=1945560298#gid=1945560298) based on a friends design. Not everything is allowed. Magic is limited, base setting is feudal japan/asia. Read the rules nerds!

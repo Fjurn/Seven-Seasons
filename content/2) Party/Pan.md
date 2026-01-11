@@ -5,3 +5,7 @@ Questions asked in the Archive:
 - how do i make my daggers magical [[P2 - magic daggers]]
 - Will merging the planes together improve the lives of the humans, won't the habitats of the higher planes attack us, won't azragog attack us? [[P3 - merging of planes]]
 
+
+
+Art:
+![350](https://cdn.artstation.com/p/assets/images/images/007/378/427/large/jinglin-xu-jinglin918xiao.jpg?1505739929)

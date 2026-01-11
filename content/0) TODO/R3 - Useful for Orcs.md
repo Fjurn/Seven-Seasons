@@ -1,1 +1,0 @@
-- Question: The Orcs have asked us to find their lost relics for them, which we have now done. What other piece of information would also be extremely valuable to specifically the Orcs and their endeavors?

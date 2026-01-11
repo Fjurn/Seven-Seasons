@@ -1,1 +1,0 @@
-- Question: What are the simplest or most accessible ways to obtain resurrection magic, or other forms of power, so that I, or a third party, could restore the pile of bones that was once Gertje to his living, intelligible state?
