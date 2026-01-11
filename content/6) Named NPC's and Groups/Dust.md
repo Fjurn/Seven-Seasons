@@ -3,4 +3,4 @@ Orc Female Sorceress, personal guard of High Orc Tannaruk, both of which have me
 
 Love interest of [[Rah'zeer]]. 
 
-![[Pasted image 20260111022723.png|500]]
+![500](https://5e.tools/img/bestiary/AATM/Heralds%20of%20Dust%20Exorcist.webp)
