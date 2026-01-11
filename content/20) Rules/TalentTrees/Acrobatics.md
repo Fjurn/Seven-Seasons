@@ -10,44 +10,13 @@ gravity-defying feats of dexterity.
 ![[Pasted image 20260111035308.png|400]]
 If you choose Free Stride, you must pick Withdraw afterwards, similar for the other options on that line.
 
-(Base) Handspring Expert
-When you are prone, standing up uses only 10 feet of your
-movement.
-
-(A1) Free Stride
-Your quick stride lets you carefully pick a path through rough
-terrain. Your speed increases by 10 ft. When you take the Dash
-action, difficult terrain costs you no extra movement this turn.
-(A2) Withdraw
-When you make an attack against a creature, you don’t provoke
-opportunity attacks from that creature for the rest of the turn,
-whether you hit or miss.
-
-(B1) Tumble
-As an action or a bonus action, you can tumble through the
-space of a hostile creature to a location on the other side. You
-must have enough movement to reach the other side to do so.
-Additonally, when determining fall damage that would be dealt
-to you, treat any fall as if it were from 20 feet less than the
-actual height, to a minimum of 0 feet.
-(B2) Agility
-When you take the Dodge action, you can immediately move 5
-feet in any direction without provoking opportunity attacks, in
-addition to your normal movement.
-
-(C1) Slippery
-You have advantage on saving throws made to avoid or resist
-traps and you have resistance to the damage dealt by traps.
-Whenever you succeed on a Dexterity saving throw, you can use
-your reaction to move up to half your movement.
-(C2) Escape Artist
-On your turn, you can forego all of your movement to
-automatically escape from nonmagical restraints such as
-manacles or a creature that has you grappled.
-
-(Final) Freerunning
-When you take the Dash action, if you are wearing light or no
-armor, you can run on vertical surfaces, along the edges of
-thin barriers, or hop from one outcropping to another as if you
-were travelling along normal terrain. If you stop moving while
-running across a wall, you begin to fall.
+| Ability Tier | Name <br>Description                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Base         | Handspring Expert<br>When you are prone, standing up uses only 10 feet of your<br>movement.                                                                                                                                                                                                                                                                                           |
+| A1           | Free Stride<br>Your quick stride lets you carefully pick a path through rough<br>terrain. Your speed increases by 10 ft. When you take the Dash<br>action, difficult terrain costs you no extra movement this turn.                                                                                                                                                                   |
+| A2           | Withdraw<br>When you make an attack against a creature, you don’t provoke<br>opportunity attacks from that creature for the rest of the turn,<br>whether you hit or miss.                                                                                                                                                                                                             |
+| B1           | Tumble<br>As an action or a bonus action, you can tumble through the<br>space of a hostile creature to a location on the other side. You<br>must have enough movement to reach the other side to do so.<br>Additonally, when determining fall damage that would be dealt<br>to you, treat any fall as if it were from 20 feet less than the<br>actual height, to a minimum of 0 feet. |
+| B2           | Agility<br>When you take the Dodge action, you can immediately move 5<br>feet in any direction without provoking opportunity attacks, in<br>addition to your normal movement.                                                                                                                                                                                                         |
+| C1           | Slippery<br>You have advantage on saving throws made to avoid or resist<br>traps and you have resistance to the damage dealt by traps.<br>Whenever you succeed on a Dexterity saving throw, you can use<br>your reaction to move up to half your movement.                                                                                                                            |
+| C2           | Escape Artist<br>On your turn, you can forego all of your movement to<br>automatically escape from nonmagical restraints such as<br>manacles or a creature that has you grappled.                                                                                                                                                                                                     |
+| Final        | Freerunning<br>When you take the Dash action, if you are wearing light or no<br>armor, you can run on vertical surfaces, along the edges of<br>thin barriers, or hop from one outcropping to another as if you<br>were travelling along normal terrain. If you stop moving while<br>running across a wall, you begin to fall.                                                         |
