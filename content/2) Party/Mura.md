@@ -1,3 +1,7 @@
+---
+socialImage: mura.png
+---
+
 Pet fox of Yang. Heeft een leven gehad in de bossen in de wildlands. Heeft planes gehopt en is terecht gekomen in Cegeris. 
 
 Relationships with other creatures in the cosmos:
