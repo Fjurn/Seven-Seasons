@@ -14,7 +14,7 @@ interface Options {
 }
 
 const defaultOptions: Options = {
-  layout: "modern",
+  layout: "legacy",
 }
 
 let numTocs = 0

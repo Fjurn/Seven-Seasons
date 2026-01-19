@@ -2,6 +2,7 @@
 title: Seven Seasons Campaign
 aliases:
   - Homepage
+socialImage: og-image.png
 ---
 <pages made with quartz: https://quartz.jzhao.xyz/ >
 
@@ -20,6 +21,7 @@ The group of players is called the Shogun's Expedition and are from the 7th and 
 | 5        | The Wildlands     | The Commander of Horn and Gold<br>(name not commonly heard of) | Fey                       |           |
 | 6        | The Beastlands    | Raiju, the Thunderbeast                                        | Beastfolk, Dwarves, Elves |           |
 | 7        | Cegeris           | Shogun                                                         | Humans                    |           |
+
 The players are:
 - J**** [[Oda (retired)]], [[Yang]]
 - S**** [[Kaeda]]
